@@ -1,2 +1,1 @@
-updating codewars kata 8 
-code
+Lecture notes for week 1-3
